@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+.container{
+    background: white;
+}
+.row{
+    border: 2px solid gray;
+}
+.option-btn{
+    margin: 5px;
+}
